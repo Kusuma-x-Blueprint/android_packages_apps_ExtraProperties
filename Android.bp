@@ -1,0 +1,13 @@
+//
+// Copyright (C) 2023 The Evolution X Project
+// Copyright (C) 2024 Project Lineage Remix Open Source
+// SPDX-License-Identifier: Apache-2.0
+//
+
+android_app {
+    name: "ExtraPIHooks",
+    platform_apis: true,
+    resource_dirs: ["res"],
+    certificate: "platform",
+    system_ext_specific: true,
+}
