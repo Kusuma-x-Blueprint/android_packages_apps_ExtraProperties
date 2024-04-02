@@ -5,7 +5,7 @@
 //
 
 android_app {
-    name: "ExtraPIHooks",
+    name: "ExtraProperties",
     platform_apis: true,
     resource_dirs: ["res"],
     certificate: "platform",
